@@ -1,0 +1,148 @@
+20:56:51 [INFO] Using mbed TLS based native cipher.
+20:56:51 [INFO] Using zlib based native compressor.
+20:56:51 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:ffa011c:1804
+20:56:51 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:56:51 [INFO] Epoll is working, utilising it!
+20:56:51 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:56:51 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:56:51 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:56:51 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:56:51 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:56:51 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:56:51 [INFO] Attempting to update plugin from null to ModuleVersion(build=1804, git=ffa011c)
+20:56:51 [INFO] Attempting to Jenkins download module cmd_alert v1804
+20:56:52 [INFO] Download complete
+20:56:52 [INFO] Attempting to update plugin from null to ModuleVersion(build=1804, git=ffa011c)
+20:56:52 [INFO] Attempting to Jenkins download module cmd_find v1804
+20:56:53 [INFO] Download complete
+20:56:53 [INFO] Attempting to update plugin from null to ModuleVersion(build=1804, git=ffa011c)
+20:56:53 [INFO] Attempting to Jenkins download module cmd_list v1804
+20:56:53 [INFO] Download complete
+20:56:53 [INFO] Attempting to update plugin from null to ModuleVersion(build=1804, git=ffa011c)
+20:56:53 [INFO] Attempting to Jenkins download module cmd_send v1804
+20:56:53 [INFO] Download complete
+20:56:53 [INFO] Attempting to update plugin from null to ModuleVersion(build=1804, git=ffa011c)
+20:56:53 [INFO] Attempting to Jenkins download module cmd_server v1804
+20:56:53 [INFO] Download complete
+20:56:53 [INFO] Attempting to update plugin from null to ModuleVersion(build=1804, git=ffa011c)
+20:56:53 [INFO] Attempting to Jenkins download module reconnect_yaml v1804
+20:56:54 [INFO] Download complete
+20:56:54 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [WARNING] Forced host server pvp is not defined
+20:56:54 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+20:56:54 [INFO] Listening on /0.0.0.0:25577
+20:56:59 [INFO] Closing listener [id: 0xdc87f4ae, L:/0:0:0:0:0:0:0:0%0:25577]
+20:56:59 [INFO] Closing pending connections
+20:56:59 [INFO] Disconnecting 0 connections
+20:57:00 [INFO] Saving reconnect locations
+20:57:00 [INFO] Disabling plugins
+20:57:00 [INFO] Closing IO threads
+21:03:00 [INFO] Using mbed TLS based native cipher.
+21:03:00 [INFO] Using zlib based native compressor.
+21:03:00 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:ffa011c:1804
+21:03:00 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:03:00 [INFO] Epoll is working, utilising it!
+21:03:00 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:03:00 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:03:00 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:03:00 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:03:00 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:03:00 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:03:00 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [WARNING] Forced host server pvp is not defined
+21:03:00 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:00 [INFO] Listening on /0.0.0.0:25577
+21:03:20 [INFO] §cCommand not found
+21:03:23 [INFO] Closing listener [id: 0x055ba16f, L:/0:0:0:0:0:0:0:0%0:25577]
+21:03:23 [INFO] Closing pending connections
+21:03:23 [INFO] Disconnecting 0 connections
+21:03:23 [INFO] Saving reconnect locations
+21:03:23 [INFO] Disabling plugins
+21:03:23 [INFO] Closing IO threads
+21:03:59 [INFO] Using mbed TLS based native cipher.
+21:03:59 [INFO] Using zlib based native compressor.
+21:03:59 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:ffa011c:1804
+21:03:59 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:03:59 [INFO] Epoll is working, utilising it!
+21:03:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:03:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:03:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:03:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:03:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:03:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:03:59 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:03:59 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:03:59 [WARNING] :>  
+21:03:59 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+21:03:59 [WARNING] :>  
+21:03:59 [WARNING] :>  This plugin wasn't tested to be 'working'
+21:03:59 [WARNING] :>  with ANY version of BungeeCord (and forks)
+21:03:59 [WARNING] :>  apart from the versions listed below:
+21:03:59 [WARNING] :>  
+21:03:59 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+21:03:59 [WARNING] :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+21:03:59 [WARNING] :>  - FlameCord: 1.1.1
+21:03:59 [WARNING] :>  
+21:03:59 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+21:03:59 [WARNING] :>  
+21:03:59 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+21:03:59 [WARNING] :>  
+21:03:59 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:04:00 [INFO] Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+21:04:00 [WARNING] Forced host server pvp is not defined
+21:04:00 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:04:00 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:04:00 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:04:00 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:04:00 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:04:00 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:ffa011c:1804 by SpigotMC
+21:04:00 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+21:04:00 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+21:04:00 [INFO] [EaglercraftXBungee] Downloading from maven: https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.45.0.0/sqlite-jdbc-3.45.0.0.jar
+21:04:00 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+21:04:00 [INFO] Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+21:04:00 [INFO] Listening on /0.0.0.0:25577
+21:04:00 [INFO] [EaglercraftXBungee] Downloading new certificate: https://eaglercraft.com/backup.cert
+21:04:00 [INFO] [EaglercraftXBungee] Loaded certificate: /workspace/terminal/BungeeCord/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+21:04:20 [SEVERE] [/192.168.50.137:35250] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+21:04:31 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspace/terminal/BungeeCord/server-icon.png
+21:04:32 [INFO] [EaglercraftXBungee] [/192.168.50.137:35336]: Connected via websocket
+21:04:32 [INFO] [EaglercraftXBungee] [/192.168.50.137:35336]: Origin header is null
+21:04:32 [INFO] [EaglercraftXBungee] [/192.168.50.137:35336]: Logged in as 'Sedjf'
+21:04:32 [INFO] [Sedjf] -> UpstreamBridge has connected
+21:04:32 [INFO] [Sedjf] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+21:04:32 [INFO] [Sedjf] -> UpstreamBridge has disconnected
+21:05:01 [INFO] [EaglercraftXBungee] [/192.168.50.137:42804]: Connected via websocket
+21:05:01 [INFO] [EaglercraftXBungee] [/192.168.50.137:42804]: Origin header is null
+21:05:01 [INFO] [EaglercraftXBungee] [/192.168.50.137:42804]: Logged in as 'Sedjf'
+21:05:01 [INFO] [Sedjf] -> UpstreamBridge has connected
+21:05:01 [INFO] [Sedjf] <-> ServerConnector [lobby] has connected
+21:05:01 [WARNING] [Sedjf] <-> ServerConnector [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
+21:05:01 [INFO] [Sedjf] disconnected with: §f§cException Connecting: NativeIoException : recvAddress(..) failed: Connection reset by peer
+21:05:01 [INFO] [Sedjf] -> UpstreamBridge has disconnected
+21:05:01 [INFO] [Sedjf] <-> ServerConnector [lobby] has disconnected
